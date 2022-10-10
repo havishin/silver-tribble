@@ -1,0 +1,13 @@
+body{
+    background:linear-gradient(red 0% , blue 100% );
+    color: black;
+}
+.copy_right_footer{
+    position:fixed;
+    bottom:0;
+    width:100%;
+    background-color: black;
+    color:yellow;
+    font-size:18px;
+    font-weight:bold;
+}
